@@ -94,6 +94,8 @@
 ---
 
 > _"The science of today is the technology of tomorrow."_ — Edward Teller
+> ![Profile Views](https://komarev.com/ghpvc/?username=parveen-ml&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 
 <!--
