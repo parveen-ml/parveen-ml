@@ -76,12 +76,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💡 What Drives Me
 
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=parveen-ml&show_icons=true&theme=react&count_private=true"/>
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=parveen-ml&theme=react"/>
-</p>
+- 🚀 Turning data into insights that solve real-world problems
+- 🔐 Building intelligent, secure, and scalable AI systems
+- 🧬 Combining ML, NLP, and cloud to build impactful solutions
+- 📚 Learning endlessly — from algorithms to ethics in AI
+- 🤝 Giving back to the open-source and research community
 
 ---
 
