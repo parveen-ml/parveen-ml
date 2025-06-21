@@ -93,7 +93,7 @@
 
 ---
 
-> _"The science of today is the technology of tomorrow."_ — Edward Teller
+> _"What more can be done with the world we live in?"_ — Parveen kashyap
 
 
 
