@@ -92,8 +92,9 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/parveen-kashyap44/) | 💻 [GitHub](https://github.com/parveen-ml) | 🧠 [LeetCode](https://leetcode.com/u/parveenkashyap80/) | 🏆 [HackerRank](https://www.hackerrank.com/profile/inparv)
 
 ---
-
+![snake gif](https://github.com/parveen-ml/parveen-ml/blob/output/github-snake-dark.svg)
 > _"What more can be done with the world we live in?"_ — Parveen kashyap
+
 
 
 
