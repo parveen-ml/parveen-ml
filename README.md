@@ -14,16 +14,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **AI-driven threat detection & self-healing systems**
-- 🌱 Learning: **Reinforcement Learning**, **Cloud ML Deployment (AWS/GCP)**  
-- 💡 I love solving problems with data, logic, and a touch of deep learning
-- 🧠 Ask me about: Python, TensorFlow, Scikit-learn, ML pipelines, Time Series, SQL
-- ⚡ Fun fact: I debug in the dark mode. Always.
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**  
@@ -47,22 +37,6 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 🚀 Projects
-
-#### 🔐 Self-Healing AI for Network Security
-> Hybrid ensemble model (ANN + LSTM) with 96.5% accuracy & real-time remediation logic
-
-#### 🧬 Cervical Cancer Risk Prediction
-> XGBoost-based predictive system (95% accuracy) with full preprocessing & visual insights
-
-#### 🏪 BigMart Sales Forecasting
-> Ensemble ML pipeline with advanced feature engineering & BI-driven outputs
-
-#### ✈️ Air Passenger Forecasting
-> SARIMA model predicting 24-month trends with statistical validation
 
 ---
 
