@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Parveen Kashyap 👋</h1>
 
 <p align="center">
-  🤖 AI/ML Enthusiast | 🔍 Data Scientist | ☁️ Cloud Explorer<br/>
+  🤖 AI/ML Practitioner | 🔍 Data Scientist | ☁️ Cloud Explorer<br/>
   📍 India | 🧠 Open to Collaborations & Internships
 </p>
 
