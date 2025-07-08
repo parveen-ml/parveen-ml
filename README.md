@@ -50,13 +50,13 @@
 
 ---
 
-### 💡 What Drives Me
+### 🚀 Current Focus
 
-- 🚀 Turning data into insights that solve real-world problems
-- 🔐 Building intelligent, secure, and scalable AI systems
-- 🧬 Combining ML, NLP, and cloud to build impactful solutions
-- 📚 Learning endlessly — from algorithms to ethics in AI
-- 🤝 Giving back to the open-source and research community
+- Large Language Models (LLMs) & Generative AI
+- MLOps: Model deployment, monitoring, and automation
+- Cloud-based AI/ML pipelines (GCP, AWS, Azure)
+- Computer Vision & NLP: Real-world applications
+- Prompt Engineering & Responsible AI
 
 ---
 
