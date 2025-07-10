@@ -40,16 +40,6 @@
 
 ---
 
-### 📜 Certifications
-
-- 📊 [Google Advanced Data Analytics](https://www.credly.com/badges/a3a61adf-7992-4c9d-af35-36f992e6bfd0/linked_in_profile)
-- 🧪 [Google Data Analytics Professional](https://www.credly.com/badges/985852f7-323b-44d7-b621-faa907ce87dc/linked_in_profile)
-- 💾 [Meta Database Engineer](https://www.credly.com/badges/e4f98502-4c22-47d4-894a-d362aac164f1/linked_in_profile)
-- 🐍 [Python 3 Programming Specialization (UMich)](https://www.coursera.org/specializations/python-3-programming)
-- ⭐ HackerRank 5⭐ in Python & SQL
-
----
-
 ### 🚀 Current Focus
 
 - Large Language Models (LLMs) & Generative AI
@@ -57,13 +47,6 @@
 - Cloud-based AI/ML pipelines (GCP, AWS, Azure)
 - Computer Vision & NLP: Real-world applications
 - Prompt Engineering & Responsible AI
-
----
-
-### 📫 Connect with Me
-
-📧 **er.parveen44@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/parveen-kashyap44/) | 💻 [GitHub](https://github.com/1parveen) | 🧠 [LeetCode](https://leetcode.com/u/parveenkashyap80/) | 🏆 [HackerRank](https://www.hackerrank.com/profile/inparv)
 
 ---
 <!--![snake gif](https://github.com/parveen-ml/fcommit/blob/output/github-snake-dark.svg)
