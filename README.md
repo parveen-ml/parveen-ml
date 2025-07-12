@@ -5,13 +5,6 @@
   📍 India | 🧠 Open to Collaborations & Internships
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parveen-kashyap44/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/1parveen"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
-  <a href="https://www.hackerrank.com/profile/inparv"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank"></a>
-  <a href="https://leetcode.com/u/parveenkashyap80/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white"></a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -48,6 +41,10 @@
 - Computer Vision & NLP: Real-world applications
 - Prompt Engineering & Responsible AI
 
+---
+<p align="center">
+  🌐 Personal GitHub: <a href="https://github.com/1parveen">github.com/1parveen</a>
+</p>
 ---
 <!--![snake gif](https://github.com/parveen-ml/fcommit/blob/output/github-snake-dark.svg)
 -->
