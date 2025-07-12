@@ -42,7 +42,7 @@
 - Prompt Engineering & Responsible AI
 
 ---
-<p align="center">
+<p align="left">
   🌐 Personal GitHub: <a href="https://github.com/1parveen">github.com/1parveen</a>
 </p>
 ---
