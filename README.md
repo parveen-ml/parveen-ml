@@ -54,7 +54,6 @@
 ---
 <!--![snake gif](https://github.com/parveen-ml/fcommit/blob/output/github-snake-dark.svg)
 -->
----
 > _"What more can be done with the world we live in?"_ 
 
 
