@@ -42,13 +42,19 @@
 - Prompt Engineering & Responsible AI
 
 ---
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parveen-ml&" alt="parveen-ml" /></p>
+
+---
+
 <p align="left">
   🌐 Personal GitHub: <a href="https://github.com/1parveen">github.com/1parveen</a>
 </p>
+
 ---
 <!--![snake gif](https://github.com/parveen-ml/fcommit/blob/output/github-snake-dark.svg)
 -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parveen-ml&" alt="parveen-ml" /></p>
+---
 > _"What more can be done with the world we live in?"_ 
 
 
