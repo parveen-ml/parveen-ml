@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parveen-ml&theme=tokyonight" alt="parveen-ml" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parveen-ml&" alt="parveen-ml" />
 </div>
 
 ---
