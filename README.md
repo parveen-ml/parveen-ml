@@ -13,8 +13,6 @@
 <p align="left">
   🌐 Personal GitHub (2022 - 2025 June): <a href="https://github.com/1parveen">github.com/1parveen</a>
 </p>
-
----
 <!--![snake gif](https://github.com/parveen-ml/fcommit/blob/output/github-snake-dark.svg)
 -->
 <!--
