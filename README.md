@@ -1,6 +1,6 @@
 <p align="center">
 
-  AI/ML practitioner from India, open to collaborations and internships.
+  AI/ML practitioner from India.
 
 </p>
 
