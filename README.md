@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityap700&theme=tokyo-night&hide_border=true&area=true)](https://github.com/parveen-ml/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parveen-ml&theme=tokyo-night&hide_border=true&area=true)](https://github.com/parveen-ml/github-readme-activity-graph)
 </div>
 
 ---
