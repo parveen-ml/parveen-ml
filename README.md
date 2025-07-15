@@ -3,7 +3,21 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/parveen-ml">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parveen-ml&theme=tokyonight" alt="parveen-ml" />
+    </a>
+  <a href="https://www.linkedin.com/in/parveen-kashyap44/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/parveenkashyap80/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/inparv">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen" alt="HackerRank" />
+  </a>
+  <a href="https://www.kaggle.com/parveenkashyap44">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue" alt="Kaggle" />
+  </a>
 </div>
 
 <div align="center">
