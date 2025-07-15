@@ -6,6 +6,13 @@
   <a href="https://github.com/parveen-ml">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parveen-ml&theme=tokyonight" alt="parveen-ml" />
     </a>
+  
+</div>
+
+<div align="center">
+    <a href="https://github.com/parveen-ml">
+  <img src="https://komarev.com/ghpvc/?username=parveen-ml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+        </a>
   <a href="https://www.linkedin.com/in/parveen-kashyap44/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
@@ -18,10 +25,6 @@
   <a href="https://www.kaggle.com/parveenkashyap44">
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue" alt="Kaggle" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=parveen-ml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
