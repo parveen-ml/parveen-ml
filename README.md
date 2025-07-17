@@ -26,18 +26,11 @@
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue" alt="Kaggle" />
   </a>
 </div>
-
----
-
-## 📈 Contribution Graph & Activities
-
 <div align="center">
   <a href="https://github.com/parveen-ml/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=parveen-ml&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
   </a>
 </div>
-
----
 
 <p align="left">
   🌐 Personal GitHub (2022 - 2025 June): <a href="https://github.com/1parveen">github.com/1parveen</a>
